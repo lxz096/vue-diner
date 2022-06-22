@@ -19,6 +19,10 @@ const router = createRouter({
             path:'/message',
             component:()=>import('../pages/MyMessage/MyMessage')
         }
+        ,{
+            path:'/mine',
+            component:()=>import('../pages/Mine/Mine')
+        }
     ]
 })
 export default router

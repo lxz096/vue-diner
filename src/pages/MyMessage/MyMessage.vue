@@ -1,6 +1,6 @@
 <template>
     <div class="MyMessage">
-        xiaoxin 
+        消息 
     </div>
 </template>
 <script></script>
